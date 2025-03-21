@@ -41,7 +41,8 @@
     // other settings
     "latex-workshop.message.update.show": false,
     "latex-workshop.synctex.afterBuild.enabled": true,
-    "latex-workshop.view.pdf.viewer": "tab"
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.formatting.latex": "latexindent"
   },
   "workspaceFolder": "/workdir",
   "shutdownAction": "stopCompose"
